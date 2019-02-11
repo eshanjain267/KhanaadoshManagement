@@ -1,0 +1,48 @@
+fuel
+attendance
+incentive
+salary ;- 
+max 3 login
+database required
+name
+emid
+date wise
+
+fuel
+meter reading
+2  per km
+
+
+
+
+name
+address
+contact no.
+emergency no.(different)
+vehicle no.
+license no.
+education ;-
+12th 
+Dob
+date of jaoining
+experience.
+10th 
+8th
+adhar card/voterid/pancard
+Blood group.
+passport pic.
+pancard
+
+
+
+jobs
+disturbutions
+SuperVision- planing 
+deleivery boys
+area managER
+.
+HR/Admin
+office Exceutive.
+
+
+Bussiness Developmnet -Sales Marketing.

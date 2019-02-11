@@ -1,0 +1,30 @@
+table 
+employees_personal
+create table employees_personal(EmpName varchar2(30),Date_Of_Birth date,Education varchar2(100),Diploma_course Varchar2(100),Contact_No number(10),Emergency_No number(10),Permanent_Address varchar2(1000),Local_Address varchar2(1000),Vechile_no varchar2(20),License_No varchar2(50),AdharCard_No varchar2(30), PanCard_No varchar2(30),VoterId varchar2(30),Blood_Group Varchar2(5));
+
+
+table 2
+create table employees_job(EmpId varchar2(10),EmpName varchar2(30),Working_experience varchar2(4),From_ date,To_ date,Department varchar2(30),Designation varchar2(30),salary number(8),Photo blob);
+
+table 3
+
+create table fuel(EMPID VARCHAR2(20),READING_DATE dATE,START_READING number(8),END_READING NUMBER(8),PRICE_PER_KM NUMBER(6,2),TOTAL_FUEL_PRICE NUMBER(8,2));
+
+table 4 
+create table login()
+
+
+table 5
+invoice
+
+192.168.1.2;
+
+
+
+
+
+invoice amount
+fuel amount
+pnl
+date filter
+excel file creation.
